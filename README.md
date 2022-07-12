@@ -1,7 +1,7 @@
 #### 基于 echo+websocket+html+js 实现的聊天demo
 
 #### WebSocket  <a href="https://github.com/gorilla/websocket" target="_blank">gorilla/websocket</a>
-#### 博客地址: <a href="http://blog.caixiaoxin.cn/?p=705" target="_blank">基于 echo+websocket+html+js 实现的聊天demo/websocket</a>
+#### 博客地址: <a href="http://blog.caixiaoxin.cn/?p=705" target="_blank">基于 echo+websocket+html+js 实现的聊天demo</a>
 喜欢的可以帮忙点个star哦~
 
 
